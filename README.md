@@ -1,6 +1,6 @@
 ## Megan Hessel 👋
 
-<!--
+
 **meganhessel/meganhessel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 
@@ -13,12 +13,6 @@ Take a look at my [professional website] (https://meganhessel.github.io/about.ht
 I graduated from the University of Tampa with a B.S. in Environmental Studies and minors in Marine Science and Sustainability. I went on to earn a Masters of Environmental Data Science (MEDS) from UCSB’s Bren School of Environmental Science & Management, where I developed expertise in statistical modeling, programming, and data visualization.
 
 
-## 👯 I’m looking to collaborate on ...
-
-
-## 🤔 I’m looking for help with ...
-
-
 ## 💬 Ask me about ...
 -  Sports - I played NCAA soccer at University of Tampa! 
 -  Sailing - I have my sailing certification and have sailed around the Caribbean.  
@@ -28,6 +22,12 @@ Email me at megan.hessel33@gmail.com.
 
 
 - 😄 Pronouns: she/her
-- ⚡ Fun fact: 
 
+<!--
+## 👯 I’m looking to collaborate on ...
+
+
+## 🤔 I’m looking for help with ...
+
+- ⚡ Fun fact:
 -->
