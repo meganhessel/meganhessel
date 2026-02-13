@@ -2,7 +2,7 @@
 
 ## 🔭 I’m currently working on... 
 I am current working on getting my masters of Environmental Data Science (MEDS) at the Bren School of Environmental Science and Management at University of California, Santa Barbara. 
-Take a look at my [professional website] (https://meganhessel.github.io/about.html) and dive into this Github repository for updates and various projects I have completed! 
+Take a look at my [professional website](https://meganhessel.github.io/about.html) and dive into this Github repository for updates and various projects I have completed! 
 
 
 ## 📕 Education 
