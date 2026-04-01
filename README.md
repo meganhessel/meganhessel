@@ -1,12 +1,12 @@
 ## Megan Hessel 👋
 
 ## 🔭 I’m currently working on... 
-I am current working on getting my masters of Environmental Data Science (MEDS) at the Bren School of Environmental Science and Management at University of California, Santa Barbara. 
+I am current working on getting my Masters of Environmental Data Science (MEDS) at the Bren School of Environmental Science and Management at University of California, Santa Barbara. 
 Take a look at my [professional website](https://meganhessel.github.io/about.html) and dive into this Github repository for updates and various projects I have completed! 
 
 
 ## 📕 Education 
-I graduated from the University of Tampa with a B.S. in Environmental Studies and minors in Marine Science and Sustainability. I went on to earn a Masters of Environmental Data Science (MEDS) from UCSB’s Bren School of Environmental Science & Management, where I developed expertise in statistical modeling, programming, and data visualization.
+I graduated from the University of Tampa with a B.S. in Environmental Studies and minors in Marine Science and Sustainability. I went on to earn a Masters of Environmental Data Science (MEDS) from UCSB’s Bren School of Environmental Science & Management, where I developed expertise in programming, statistics, environemental modeling, and data visualization.
 
 ## 🌱 Experience
 My experience is a mix of labatory work, data analytics, qualitative research, and public outreach! 
@@ -24,7 +24,7 @@ I also have interned for Sarasota County Government in the Parks and Recreationa
 -  Florida and Texas - these are my homes. I am orginally from Houtson, TX, but I have spent the last five years in Tampa, FL. 
 
 ## 📫 How to reach me:
-Email me at megan.hessel33@gmail.com. 
+Email me at meghessel11@gmail.com. 
 
 
 😄 **Pronouns**: she/her
